@@ -1,0 +1,8 @@
+.body{
+    height: 100vh;
+}
+.displayer{
+    height: 40vh;
+    width: 100%;
+    background-color: rgba(255, 68, 0, 0.514);
+}
